@@ -1,0 +1,8 @@
+{
+	"email": "megane.haenn@gmail.com",
+	"password": "avril2000"
+}
+ {
+ 	"email": "tonymascate@hotmail.com",
+ 	"password": "dragon"
+ }
